@@ -1,4 +1,4 @@
-# Domain-Checker-Tools
+# tools-domain-checker
 
 ## cara penggunaan
 sh tldhunt.sh -k linuxsec -E tlds.txt
